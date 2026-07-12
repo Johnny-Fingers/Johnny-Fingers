@@ -65,8 +65,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Johnny-Fingers&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Johnny-Fingers&layout=compact&hide_border=true" width="35%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Johnny-Fingers&rank_icon=github&custom_title=Johnny's%20GitHub%20Stats&show_icons=true&theme=darcula&hide=prs,issues" width="48%" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Johnny-Fingers&layout=compact&langs_count=6&theme=darcula" width="35%" height="180" />
 </p>
 
 ---
